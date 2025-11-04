@@ -1,12 +1,18 @@
+'''Pide un numero de nota de corte para que el programa revise dia a dia para luego imprimirte que dias superaron ese corte y con que temperatura'''
 
+
+#LSITA TEMPERATURA DIAS DE LA SEMANA [Lunes, martes...]
 listatemp = [20, 25, 19, 18, 15, 18, 20]
+#Pide un numero para usarlo con la temperatura de corte]
 tempcorte = int(input("Temperatura de corte: "))
 i = 0
 
+#Bucle para poder ver en que dia de la semana estamos
 for tempdia in listatemp:
 
     i = i + 1
 
+#Chequea que dias superan la temperatura de corte y imprime el dia con la temperatura
     if tempdia > tempcorte:
 
 
