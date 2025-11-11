@@ -7,4 +7,4 @@ y por ultimo cambiamos el enlace de la carpeta en la que queramos que este nuest
 Paso de copiado
 
 ![!![paso2.png](paso2.png)]
-Segundo paso
+Segundo paso.
