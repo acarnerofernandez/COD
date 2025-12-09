@@ -1,5 +1,5 @@
 class Tablero:
-    'prueba fetch'
+    'esta es la clase tablero'
     def __init__(self, tamano):
         self.dimensiones = (tamano, tamano)
         self.casillas = [[0]*tamano for _ in range(tamano)]
