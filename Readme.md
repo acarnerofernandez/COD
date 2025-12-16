@@ -17,9 +17,8 @@ Lo que hay que hacer es usar merge para fusionar el codigo o rebase para sobrees
 
 ### Apartado 3
 
-- Realiza otro cambio desde la web de tu repositorio en GitHub.
-- Utiliza pull para descargar los cambios realizados en tu repositorio.
-
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
+
+  No lo tengo muy claro tengo que buscar un poco :)
 
