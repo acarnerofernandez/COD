@@ -13,11 +13,9 @@ Pregunta
 
 ### Apartado 2
 
-- Realiza una modificación en el código en la web de tu repositorio en GitHub
-- Utiliza fetch para descargar los cambios realizados en tu repositorio.
-
-Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
+
+Lo que hay que hacer es usar merge para fusionar el codigo o rebase para sobreescribirlo
 
 ### Apartado 3
 
