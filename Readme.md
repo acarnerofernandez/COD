@@ -20,5 +20,5 @@ Lo que hay que hacer es usar merge para fusionar el codigo o rebase para sobrees
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
-  No lo tengo muy claro tengo que buscar un poco :)
+Con un simple git pull y el enlace del repo ya se actualiza
 
